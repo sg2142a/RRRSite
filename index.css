@@ -4,10 +4,10 @@ body {
 
 .box1 {
 position: absolute;
-width: 1134px;
-height: 147px;
+width: 1368px;
+height: 154px;
 left: 0px;
-top: 0px;
+top: 10px;
 
 background: #E6E6E6;
 border-radius: 25px;
@@ -28,7 +28,7 @@ border-radius: 25px;
 position: absolute;
 width: 486px;
 height: 502px;
-left: 0px;
+left: 25px;
 top: 410px;
     
 background: #E6E6E6;
@@ -40,8 +40,19 @@ position: absolute;
 width: 566px;
 height: 107px;
 left: 683px;
-top: 415px;
+top: 390px;
         
+background: #E6E6E6;
+border-radius: 25px;
+}
+
+.box5 {
+position: absolute;
+width: 774px;
+height: 388px;
+left: 568px;
+top: 515px;
+            
 background: #E6E6E6;
 border-radius: 25px;
 }
@@ -120,7 +131,7 @@ color: #5C5C5C;
 .box4-text {
 position: absolute;
 width: 566px;
-height: 118px;
+height: 100px;
 left: 0px;
 top: 0px;
         
