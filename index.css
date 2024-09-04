@@ -1,97 +1,137 @@
 body {
-    background-color: #012169;
+    background-color: #E6E6E6;
 }
 
 .box1 {
 position: absolute;
-width: 1000px;
-height: 300px;
-left: 184px;
-top: 104px;
+width: 1134px;
+height: 147px;
+left: 0px;
+top: 0px;
 
-background: #D9D9D9;
+background: #E6E6E6;
 border-radius: 25px;
 }
 
 .box2 {
 position: absolute;
-width: 1000px;
-height: 300px;
-left: 184px;
-top: 488px;
+width: 1317px;
+height: 223px;
+left: 25px;
+top: 167px;
 
-background: #C8102E;
+background: #FFC800;
 border-radius: 25px;
 }
 
-.box1-text {
+.box3 {
 position: absolute;
-width: 548px;
-height: 81px;
-left: 250px;
-top: -50px;
+width: 486px;
+height: 502px;
+left: 0px;
+top: 410px;
+    
+background: #E6E6E6;
+border-radius: 25px;
+}
+
+.box4 {
+position: absolute;
+width: 566px;
+height: 107px;
+left: 683px;
+top: 415px;
+        
+background: #E6E6E6;
+border-radius: 25px;
+}
+
+.box1-text1 {
+position: absolute;
+width: 1134px;
+height: 108px;
+left: 0px;
+top: 0px;
 
 font-family: 'Inter';
 font-style: normal;
 font-weight: 700;
-font-size: 60px;
-line-height: 73px;
+font-size: 50px;
+line-height: 61px;
 text-align: center;
 
-color: #000000;
+color: #5C5C5C;
 }
+
+.box1-text2 {
+position: absolute;
+width: 320px;
+height: 64px;
+left: 407px;
+top: 65px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+    
+color: #5C5C5C;
+}
+
 
 .box2-text {
 position: absolute;
-width: 548px;
-height: 81px;
-left: 250px;
-top: -50px;
+width: 1317px;
+height: 223px;
+left: 0px;
+top: 20px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 700;
-font-size: 60px;
-line-height: 73px;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
 text-align: center;
 
-color: #000000;
+color: #5C5C5C;
 }
 
-.output-dollar {
-    color:#000000;
-    font-size: 50px;
+.box3-text {
+position: absolute;
+width: 486px;
+height: 400px;
+left: 0px;
+top: 0px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+    
+color: #5C5C5C;   
 }
 
-.output-pound {
-    color:#000000;
-    font-size: 50px;
-}
-
-#input-dollar-field {
-    width: 300px;
-    height: 50px;
-    font-size: 25px;
-    text-align: center;
-  }
-
-#input-pound-field {
-    width: 300px;
-    height: 50px;
-    font-size: 25px;
-    text-align: center;
-}
-
-#input-button-dollar {
-    width: 75px;
-    height: 30px;
-    font-size: 12px;
-    text-align: center;
-}
-
-#input-button-pound {
-    width: 75px;
-    height: 30px;
-    font-size: 12px;
-    text-align: center;
+.box4-text {
+position: absolute;
+width: 566px;
+height: 118px;
+left: 0px;
+top: 0px;
+        
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+        
+color: #5C5C5C;
 }
